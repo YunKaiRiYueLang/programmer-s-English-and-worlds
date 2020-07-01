@@ -13,8 +13,8 @@ if 如果. 用于if语句声明
 
 return 返回. 用于return语句的声明
 
-typedef
-auto
+typedef 类型定义 用于定义类型别名
+auto 
 double
 inline
 short
