@@ -2,12 +2,17 @@
 keyword 关键字.在c++中用来指保留字符, 每个保留字符在c++中有特别的意义,不能用作其他用途了
 ## c++ 11 关键字
 
-asm 汇编 。汇编声明 给予在 C++ 程序中嵌入汇编语言源代码的能力 
+asm 汇编 .汇编声明 给予在 C++ 程序中嵌入汇编语言源代码的能力 
 
-do while  共同构成 do-while循环声明
+do 做.
+while  做连词,意思可以为:正在, 表示while连接的内容,在同一个时间段内发生.  while本身可以用于while循环语句的声明
 
-if
-return
+do while共同用于do-while循环语句声明
+
+if 如果. 用于if语句声明
+
+return 返回. 用于return语句的声明
+
 typedef
 auto
 double
