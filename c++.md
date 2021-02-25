@@ -31,7 +31,8 @@ bool 布尔.
 dynamic_cast
 
 int
-signed
+
+signed 
 typename
 break
 else
@@ -88,7 +89,10 @@ char32_t
 constexpr
 decltype
 noexcept
-nullptr
+
+nullptr 表示空指针 含有单词null ptr应该为pointer的缩写
+
+
 static_assert
 thread_local
 
