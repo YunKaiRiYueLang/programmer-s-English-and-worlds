@@ -32,9 +32,12 @@ dynamic_cast
 
 int
 
-signed 
-typename
-break
+signed  adj 有符号的。 编程中表示该类型是有符号的
+
+typename  type name的意思是类型名称  模板编程中类型参数化的关键字
+
+break 
+
 else
 long
 sizeof
