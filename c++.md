@@ -44,17 +44,28 @@ long adj adv ，长的，长久的。c++中表示有符号长整型这个类型�
 
 sizeof 字面意思...的尺寸/大小，是一个操作符。
 
-union 
+union
+
 case
+
 enum
+
 mutable
+
 static
+
 unsigned
+
 catch
+
 explicit
+
 namespace
+
 static_cast
+
 using
+
 char
 export
 new
