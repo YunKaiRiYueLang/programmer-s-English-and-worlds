@@ -36,12 +36,12 @@ signed  adj 有符号的。 编程中表示该类型是有符号的
 
 typename  type name的意思是类型名称  模板编程中类型参数化的关键字
 
-break 
+break 打破，中断。翻译过来的意义很多。编程中用于中断循环
 
-else
-long
-sizeof
-union
+else adj adv。其他的，要不然，配合if实现语句分支跳转，配合 # 可以作为预处理指令的跳转
+long adj adv ，长的，长久的。c++中表示有符号长整型这个类型。
+sizeof 字面意思...的尺寸/大小，是一个操作符。
+union 
 case
 enum
 mutable
