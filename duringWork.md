@@ -11,3 +11,6 @@ universal intrinsics 谷歌翻译为：通用的内在函数
 
 07/21
 sequential adj 形容词 连续的。forming or following in a logical order or sequence.
+12/20
+convolve  卷积
+pull request  拉取请求
