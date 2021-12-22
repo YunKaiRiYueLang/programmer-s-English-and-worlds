@@ -14,3 +14,6 @@ sequential adj 形容词 连续的。forming or following in a logical order or 
 12/20
 convolve  卷积
 pull request  拉取请求
+2020/12/21
+webinar 网络研讨会。a seminar conducted over the internet. 
+mutex 互斥体
