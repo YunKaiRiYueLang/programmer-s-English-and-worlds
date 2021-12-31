@@ -17,3 +17,8 @@ pull request  拉取请求
 2020/12/21
 webinar 网络研讨会。a seminar conducted over the internet. 
 mutex 互斥体
+2021/12/31
+strategy  战略，谋略。
+
+
+
