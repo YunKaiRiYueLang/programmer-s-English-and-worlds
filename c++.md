@@ -44,17 +44,17 @@ long adj adv ，长的，长久的。c++中表示有符号长整型这个类型�
 
 sizeof 字面意思...的尺寸/大小，是一个操作符。
 
-union
+union  联盟，合并的意思。用于c++结构体和类中的就节省内存，union的子数据，一次只能有一个。占用的内存时最大的那个的内存大小
 
-case
+case 事件 案例。配合switch使用，多个分支时候，实现快速的分支跳转
 
-enum
+enum 枚举 。枚举变量。 
 
-mutable
+mutable   意思 可变的，易变的，跟constant（既C++中的const）是反义词
 
-static
+static  意思：静止的。c++这个修饰符，控制变量的存储区域和可见性
 
-unsigned
+unsigned 意思：未签名的，无符号整数。
 
 catch
 
