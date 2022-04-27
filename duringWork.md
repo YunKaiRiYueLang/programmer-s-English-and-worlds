@@ -33,6 +33,15 @@ demosaic  去马赛克 (isp处理中的那个算法,用于处理bayer图像的)
 BLC  黑电平矫正 black level correction
 
 BPC Defect Pixel Correction  坏点矫正
+2022/4/27
+validate  
+
+check or prove the validity or accuracy of (something).
+
+signature
+人的签名.图像在计算机中存储的拓展名(最开始的那几位),也可以用这个泛指
+
+immutable  adj 不可变的.
 
 LSC 阴影矫正 Lens shading  correction
 
@@ -44,7 +53,7 @@ denoise 降噪
 
 Demosaic 去马赛克
 
-Plain RAW
+Plain RAW  纯原始数据
 
 MSB LSB  在16bit中,用于表示最高有效位和最低有效位.
 
