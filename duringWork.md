@@ -58,7 +58,9 @@ Plain RAW  纯原始数据
 MSB LSB  在16bit中,用于表示最高有效位和最低有效位.
 
 色彩校正（color calibration）
+
 chroma 色度  chroma processing 色度处理
+
 luma 亮度 luma processing 亮度处理
 
 
