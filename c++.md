@@ -58,25 +58,32 @@ unsigned 意思：未签名的，无符号整数。
 
 final 意思:adj 最后的,最终的.n.下场,结局. c++11 跟在类声明后面.表示该类不能被继承.也可以用于类的方法.(强行继承,编译器报错) class A final {....}
 
-try
+try  尝试
+ 
+catch 捕捉。try catch用于错误处理
 
-catch
+explicit  adj. 明确的 .用于构造函数和转换函数，让他们禁止悄悄的（隐式）类型转换
 
-explicit
+namespace 命名空间.可以是using namespace xx; namespace xx=yyyy::tttt; 
 
-namespace
+static_cast  强制类型转换符。编译器隐式执行的都可以它来做。增加代码可读性（消除精度截断造成的警告）。是可以操作指针类型的,如将void* 转为double*
 
-static_cast
+using 一般用来引入命名空间，或命名空间中的指定名字。还有其他冷门用法。
 
-using
+char  字符。用来表示字符。更贴切的描述，应该是表示一个占有8个bit空间的变量
 
-char
 export
+
 new
+
 struct
+
 virtual
+
 class
+
 extern
+
 operator
 switch
 void
