@@ -58,6 +58,8 @@ unsigned 意思：未签名的，无符号整数。
 
 final 意思:adj 最后的,最终的.n.下场,结局. c++11 跟在类声明后面.表示该类不能被继承.也可以用于类的方法.(强行继承,编译器报错) class A final {....}
 
+try
+
 catch
 
 explicit
@@ -99,7 +101,7 @@ true
 delete
 goto
 reinterpret_cast
-try
+
 ----
 alignas
 alignof
@@ -112,6 +114,7 @@ noexcept
 nullptr 表示空指针 含有单词null ptr应该为pointer的缩写
 
 
-static_assert
-thread_local
+static_assert 字面翻译：静态断言。用于在编译器发现错误，不生成目标代码
+
+thread_local 线程局部（存储）。它影响变量的存储周期，使变量具有线程周期
 
