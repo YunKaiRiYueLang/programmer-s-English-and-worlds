@@ -66,11 +66,18 @@ luma 亮度 luma processing 亮度处理
 
 7-15
 tab  标签
+
 previous 以前的
+
 open previous tab   打开以前的标签？
+
 prompt  提示。促使。敏捷的，立刻的。即将要过期的
+
 vendor 厂商
+
 optimize  优化。
+
 prune 修剪
+
 discard 废弃
 
