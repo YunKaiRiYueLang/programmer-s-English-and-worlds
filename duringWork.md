@@ -81,3 +81,7 @@ prune 修剪
 
 discard 废弃
 
+3-20
+facility  设施
+expire  到期          the timeout has expired
+
