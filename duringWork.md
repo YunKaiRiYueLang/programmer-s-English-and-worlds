@@ -85,3 +85,10 @@ discard 废弃
 facility  设施
 expire  到期          the timeout has expired
 
+plastic bag   塑料袋
+color  steelplate   彩色钢板
+flame  火焰
+plastic film 塑料薄膜
+frisbee  飞盘
+toaster  烤面包机
+
