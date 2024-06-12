@@ -45,7 +45,7 @@ immutable  adj 不可变的.
 
 LSC 阴影矫正 Lens shading  correction
 
-Green imbalance  correction  绿平衡矫正
+Green imbalance  correction  绿不平衡矫正
 
 AWB 自动白平衡 auto white balance
 
